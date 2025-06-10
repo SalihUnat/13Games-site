@@ -45,7 +45,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>GameHub - Giriş Yap</title>
+    <title>13Games - Giriş Yap</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -76,7 +76,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     <footer>
         <div class="container">
-            <p>&copy; 2023 GameHub - Tüm hakları saklıdır</p>
+            <p>&copy; 2025 13Games - Tüm hakları saklıdır</p>
         </div>
     </footer>
 </body>

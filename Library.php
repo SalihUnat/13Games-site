@@ -16,7 +16,7 @@ $games = $stmt->fetchAll();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>GameHub - Kütüphanem</title>
+    <title>13Games - Kütüphanem</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -51,7 +51,7 @@ $games = $stmt->fetchAll();
 
     <footer>
         <div class="container">
-            <p>&copy; 2023 GameHub - Tüm hakları saklıdır</p>
+            <p>&copy; 2025 13Games - Tüm hakları saklıdır</p>
         </div>
     </footer>
 </body>

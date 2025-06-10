@@ -63,7 +63,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_SESSION['user']) && $owned) {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>GameHub - <?= htmlspecialchars($game['name']) ?></title>
+    <title>13Games - <?= htmlspecialchars($game['name']) ?></title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -134,7 +134,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_SESSION['user']) && $owned) {
 
 <footer>
     <div class="container">
-        <p>&copy; 2023 GameHub - Tüm hakları saklıdır</p>
+        <p>&copy; 2025 13Games - Tüm hakları saklıdır</p>
     </div>
 </footer>
 </body>

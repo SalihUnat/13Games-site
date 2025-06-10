@@ -151,7 +151,7 @@ $categories = $pdo->query("SELECT * FROM categories ORDER BY name")->fetchAll();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>GameHub - Admin Paneli</title>
+    <title>13Games - Admin Paneli</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -266,6 +266,6 @@ $categories = $pdo->query("SELECT * FROM categories ORDER BY name")->fetchAll();
     <?php endif; ?>
 </section>
 </main>
-<footer><div class="container"><p>&copy; 2023 GameHub - Tüm hakları saklıdır</p></div></footer>
+<footer><div class="container"><p>&copy; 2025 13Games  - Tüm hakları saklıdır</p></div></footer>
 </body>
 </html>
