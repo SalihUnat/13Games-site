@@ -23,7 +23,7 @@ $newGames = $pdo->query("
 <!DOCTYPE html>
 <html>
 <head>
-    <title>GameHub - Ana Sayfa</title>
+    <title>13Games - Ana Sayfa</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -33,7 +33,7 @@ $newGames = $pdo->query("
         <section class="hero">
             <div class="hero-content">
                 <h2>Yeni ve Popüler Oyunları Keşfet</h2>
-                <p>En iyi oyun deneyimi için GameHub'a hoş geldiniz!</p>
+                <p>En iyi oyun deneyimi için 13Games'a hoş geldiniz!</p>
                 <a href="store.php" class="btn">Mağazaya Gözat</a>
             </div>
         </section>
@@ -73,7 +73,7 @@ $newGames = $pdo->query("
 
     <footer>
         <div class="container">
-            <p>&copy; 2023 GameHub - Tüm hakları saklıdır</p>
+            <p>&copy; 2025 13Games - Tüm hakları saklıdır</p>
         </div>
     </footer>
 </body>

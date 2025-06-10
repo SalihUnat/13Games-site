@@ -1,6 +1,6 @@
 <header>
     <div class="container">
-        <h1>GameHub</h1>
+        <h1>13Games</h1>
         <nav>
             <a href="index.php">Ana Sayfa</a>
             <a href="store.php">Mağaza</a>

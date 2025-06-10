@@ -40,7 +40,7 @@ $categories = $pdo->query("SELECT * FROM categories")->fetchAll();
 <!DOCTYPE html>
 <html>
 <head>
-    <title>GameHub - Mağaza</title>
+    <title>13Games - Mağaza</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -83,7 +83,7 @@ $categories = $pdo->query("SELECT * FROM categories")->fetchAll();
 
     <footer>
         <div class="container">
-            <p>&copy; 2023 GameHub - Tüm hakları saklıdır</p>
+            <p>&copy; 2025 13Games - Tüm hakları saklıdır</p>
         </div>
     </footer>
 </body>
